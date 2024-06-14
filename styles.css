@@ -8,8 +8,10 @@
     padding: 0;
     margin: 0;
     list-style: none;
+    border: 2px solid red;
 }
 
+/* home page styling */
 #home{
     text-align: center;
     margin: 20px;
@@ -24,3 +26,6 @@
     padding: 10px;
     margin: 5px;
 }
+
+/* other pages styling */
+
