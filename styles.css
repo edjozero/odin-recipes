@@ -44,3 +44,28 @@ img{
     display: block;
     margin: 20px auto;
 }
+
+h3{
+    margin: 0 0 10px 20px;
+}
+
+p{
+    margin: 0 0 5px 20px;
+    background-color: lightgray;
+    padding: 5px;
+}
+
+h5{
+    margin: 10px 0 10px 20px;
+}
+
+ul{
+    margin-left: 40px;
+    font-size: 14px;
+}
+
+ol{
+    margin: 10px 0 20px 40px;
+    font-size: 14px;
+    font-style: oblique;
+}
